@@ -1,0 +1,31 @@
+Debut
+
+15/09/2021 : On a commencer à étudier les différentes méthodes qu'on pourrait utiliser pour gérer les différentes parties (préhension d'un objet, détection d'objet et mouvement du robot); on a aussi pris en main un robot à trois roues.
+
+22/09/2021 : Trouver une bibliothèque pour piloter les moteurs brushless en python/ Essayer de faire fonctionner la pixi (camera)/ ps: la pince est finie/ Definition du cahier des charges, des livrables
+
+29/09/2021 : Coder une fonction qui controle les mouvements du robot en fonction des actions sur la manette /modéliser la pince
+
+06/10/2021 : Trouver un équivalent au code de controle des moteurs en python parce que le mélange C/python n'est pas concluant/ placer la pince sur le bras
+
+13/10/2021 : Trouver un équivalent au code de controle des moteurs en python parce que le mélange C/python n'est pas concluant(continuer)
+
+20/10/2021 : Continuer de travailler sur le Lidar/ sur la détection d'objets de couleurs vives avec la caméra/ controler le bras robot avec la pointe(définir le MGI/MGD) et trouver le meilleur moyen de controler la pince. Créer un site web qui affiche le retour caméra.
+
+27/10/2021 : Créer un site qui affichera le retour camera du robot/ Faire fonctionner le Lidar/ Faire fonctionner la caméra/ Faire fonctionner la commande de la pointe par MGI. 
+
+10/11/2021 : Faire fonctionner le Lidar / Trouver un moyen pour garder la pince toujours à l'horizontal / Réussir à installer la librairie openCV pour faire fonctionner la caméra avec la beagle/ Trouver un moyen pour controler le déplacement du robot avec une commande en vitesse. 
+
+17/11/2021 : Faire fonctionner le Lidar / Améliorer la rapidité du bras avec le controle par la manette / Réussir à installer la librairie openCV pour faire fonctionner la caméra avec la beagle/ Améliorer le code qui contrôle le déplacement du robot avec une commande en vitesse /Connecter la beagle bone avec le réseau Polytech et la faire devenir repeater.
+
+24/11/2021 : Faire fonctionner le Lidar / Réussir à installer la librairie openCV pour faire fonctionner la caméra avec la beagle/ Ajouter une fonctionnalité sur le site pour qu'il affiche un graph qui se modifie en réel avec les données reçues par le lidar.
+
+01/12/2021 : Améliorer la méthode pour récupérer les données avec le lidar / Réussir à trouver un moyen pour envoyer le flux vidéo de la webcam vers un site web / Réussir à combiner le code qui contrôle le bras et les roues.
+
+08/12/2021 : Créer une matrice qui met a 1 les endroits où il y a des obstacles / connecter la beagle bone au réseau polytech/ mettre le serveur web sur la beagle bone /  Réussir à combiner le code qui contrôle le bras et les roues.
+
+15/12/2021 : Créer une matrice qui met a 1 les endroits où il y a des obstacles / Lancer au démarrage le service de connexion wi-fi et set up le serveur sur la beagle/ ameliorer la détection d'objets avec la caméra.
+
+5/01/2022 : Adaptater le retour flux video sur le site avec n'importe quelle cam / Traiter les données Lidar / Améliorer la reconnaissance d'objet avec openCV
+
+12/01/2022 : Adaptater le site web à tout type d'appareil et récupérer les données Lidar et intégrer le streaming cam aux autres threads / Faire des vidéos du robot / Réussir à détecter la distance avec un objet sans la intel(caméra)
